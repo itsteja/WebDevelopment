@@ -1,0 +1,20 @@
+As we progress along the course it takes approximately 10 min longer compared to the previous lesson, this is designed like that on purpose.
+On video based learning there is something called Code along, it means you try to keep the pace of the video and type the code along with the video. 
+You pause the video every so often to catch up with the code being written by the instructor.
+
+
+Watch the video in 10 min blocks, watch the video for 10 mins thats it, then understand the purpose of the code that is being written rather than trying to type along with the same pace.
+Once you have understood what the tutorial is trying to teach you and understood the purpose of it, then go to your computer and type out of the code and try to replicate what happened in the 10 mins.
+The reason why this helps you is because instead of copying code by rote this method forces you to understand what is going on and absorb the content and then test yourselves afterward if you really understood.
+
+
+We are here to learn how to program not to type fast. 
+To learning typing go to (keybr.com)
+
+If you find a module or a topic difficult then try the concept watching a video for 10 min and then understanding what is being told in those 10 mins and replicating it based on your understanding.
+If you still find it difficult then bookmark it and re-visit it later after a week or so.
+Because once you have researched around the topic then getting back to this topic will make things better and easier to comprehend.
+
+By watching videos you could be learning things superficially, but to really get good at something one has put in the hours to get good at it.
+Practice leads to Mastery and requires time and perseverence. 
+

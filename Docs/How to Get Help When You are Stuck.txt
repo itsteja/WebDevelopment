@@ -1,0 +1,9 @@
+
+
+First re-evaluate what is the expectation vs what is the reality. 
+
+Ask in the Q&A.
+1. What did you expect
+2. What actually happened
+3. Screenshot of the code
+4. Screenshot of the debug console
